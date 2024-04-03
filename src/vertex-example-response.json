@@ -1,0 +1,1428 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": ""
+  },
+  "queries": {
+    "request": [],
+    "nextPage": []
+  },
+  "context": {
+    "title": "Churchofjesuschrist.org"
+  },
+  "searchInformation": {
+    "searchTime": 0,
+    "formattedSearchTime": "0",
+    "totalResults": "0",
+    "formattedTotalResults": "0"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Gospel Voice App on Google Home ending in June - Tech Forum",
+      "htmlTitle": "Gospel Voice App on <b>Google</b> Home ending in June - Tech Forum",
+      "link": "https://tech.churchofjesuschrist.org/forum/viewtopic.php?t=42125",
+      "displayLink": "tech.churchofjesuschrist.org",
+      "snippet": "May 5, 2023 ... Recently the app won't load when you say \"talk to Gospel Voice\" Google would stop listening on the word Gospel. So I started saying \"Voice ...",
+      "htmlSnippet": "May 5, 2023 <b>...</b> Recently the app won&#39;t load when you say &quot;talk to Gospel Voice&quot; <b>Google</b> would stop listening on the word Gospel. So I started saying &quot;Voice&nbsp;...",
+      "formattedUrl": "https://tech.churchofjesuschrist.org/forum/viewtopic.php?t=42125",
+      "htmlFormattedUrl": "https://tech.churchofjesuschrist.org/forum/viewtopic.php?t=42125",
+      "pagemap": {
+        "listitem": {
+          "listValue": {
+            "values": [
+              {
+                "structValue": {
+                  "fields": {
+                    "item": {
+                      "stringValue": "Forum",
+                      "kind": "stringValue"
+                    },
+                    "position": {
+                      "stringValue": "1",
+                      "kind": "stringValue"
+                    },
+                    "name": {
+                      "stringValue": "Forum",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              },
+              {
+                "structValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Church Technology for Members",
+                      "kind": "stringValue"
+                    },
+                    "position": {
+                      "stringValue": "2",
+                      "kind": "stringValue"
+                    },
+                    "item": {
+                      "stringValue": "Church Technology for Members",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              },
+              {
+                "structValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Other Member Technologies",
+                      "kind": "stringValue"
+                    },
+                    "position": {
+                      "stringValue": "3",
+                      "kind": "stringValue"
+                    },
+                    "item": {
+                      "stringValue": "Other Member Technologies",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              }
+            ]
+          },
+          "kind": "listValue"
+        },
+        "cse_image": {
+          "listValue": {
+            "values": [
+              {
+                "structValue": {
+                  "fields": {
+                    "src": {
+                      "stringValue": "https://www.churchofjesuschrist.org/imgs/0fd2691a8a019111765601085628ed5183d2c812/full/200%2C/0/default.png",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              }
+            ]
+          },
+          "kind": "listValue"
+        },
+        "cse_thumbnail": {
+          "listValue": {
+            "values": [
+              {
+                "structValue": {
+                  "fields": {
+                    "height": {
+                      "stringValue": "316",
+                      "kind": "stringValue"
+                    },
+                    "width": {
+                      "stringValue": "160",
+                      "kind": "stringValue"
+                    },
+                    "src": {
+                      "stringValue": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN1wPfgzz-iXlqNm7EFGrhvqNiUNXIkkQV0qbwTT6WZ_OqNpfGd6Mwz7aq&s",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              }
+            ]
+          },
+          "kind": "listValue"
+        },
+        "metatags": {
+          "listValue": {
+            "values": [
+              {
+                "structValue": {
+                  "fields": {
+                    "viewport": {
+                      "stringValue": "width=device-width, initial-scale=1",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              }
+            ]
+          },
+          "kind": "listValue"
+        }
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "how to sync ward calendar into google calendar - Tech Forum",
+      "htmlTitle": "how to sync ward calendar into <b>google</b> calendar - Tech Forum",
+      "link": "https://tech.churchofjesuschrist.org/forum/viewtopic.php?t=25431",
+      "displayLink": "tech.churchofjesuschrist.org",
+      "snippet": "Re: how to sync ward calendar into google calendar ... Yes. Click on the gear icon, then \"sync\". It will give you the instructions and the link to do it. Note ...",
+      "htmlSnippet": "Re: how to sync ward calendar into <b>google</b> calendar ... Yes. Click on the gear icon, then &quot;sync&quot;. It will give you the instructions and the link to do it. Note&nbsp;...",
+      "formattedUrl": "https://tech.churchofjesuschrist.org/forum/viewtopic.php?t=25431",
+      "htmlFormattedUrl": "https://tech.churchofjesuschrist.org/forum/viewtopic.php?t=25431",
+      "pagemap": {
+        "cse_thumbnail": {
+          "listValue": {
+            "values": [
+              {
+                "structValue": {
+                  "fields": {
+                    "width": {
+                      "stringValue": "160",
+                      "kind": "stringValue"
+                    },
+                    "src": {
+                      "stringValue": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN1wPfgzz-iXlqNm7EFGrhvqNiUNXIkkQV0qbwTT6WZ_OqNpfGd6Mwz7aq&s",
+                      "kind": "stringValue"
+                    },
+                    "height": {
+                      "stringValue": "316",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              }
+            ]
+          },
+          "kind": "listValue"
+        },
+        "cse_image": {
+          "listValue": {
+            "values": [
+              {
+                "structValue": {
+                  "fields": {
+                    "src": {
+                      "stringValue": "https://www.churchofjesuschrist.org/imgs/0fd2691a8a019111765601085628ed5183d2c812/full/200%2C/0/default.png",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              }
+            ]
+          },
+          "kind": "listValue"
+        },
+        "listitem": {
+          "listValue": {
+            "values": [
+              {
+                "structValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Forum",
+                      "kind": "stringValue"
+                    },
+                    "position": {
+                      "stringValue": "1",
+                      "kind": "stringValue"
+                    },
+                    "item": {
+                      "stringValue": "Forum",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              },
+              {
+                "structValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Church Technology for Members",
+                      "kind": "stringValue"
+                    },
+                    "position": {
+                      "stringValue": "2",
+                      "kind": "stringValue"
+                    },
+                    "item": {
+                      "stringValue": "Church Technology for Members",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              },
+              {
+                "structValue": {
+                  "fields": {
+                    "position": {
+                      "stringValue": "3",
+                      "kind": "stringValue"
+                    },
+                    "item": {
+                      "stringValue": "Main Church Website",
+                      "kind": "stringValue"
+                    },
+                    "name": {
+                      "stringValue": "Main Church Website",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              },
+              {
+                "structValue": {
+                  "fields": {
+                    "item": {
+                      "stringValue": "Calendar",
+                      "kind": "stringValue"
+                    },
+                    "position": {
+                      "stringValue": "4",
+                      "kind": "stringValue"
+                    },
+                    "name": {
+                      "stringValue": "Calendar",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              }
+            ]
+          },
+          "kind": "listValue"
+        },
+        "metatags": {
+          "listValue": {
+            "values": [
+              {
+                "structValue": {
+                  "fields": {
+                    "viewport": {
+                      "stringValue": "width=device-width, initial-scale=1",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              }
+            ]
+          },
+          "kind": "listValue"
+        }
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Google Photos / missionary storage - Tech Forum",
+      "htmlTitle": "<b>Google</b> Photos / missionary storage - Tech Forum",
+      "link": "https://tech.churchofjesuschrist.org/forum/viewtopic.php?t=41123",
+      "displayLink": "tech.churchofjesuschrist.org",
+      "snippet": "Re: Google Photos / missionary storage ... Do this on the Missionary Google Account: 1. Log into the missionary.org gmail account for your missionary. 2. Navigate ...",
+      "htmlSnippet": "Re: <b>Google</b> Photos / missionary storage ... Do this on the Missionary <b>Google</b> Account: 1. Log into the missionary.org gmail account for your missionary. 2. Navigate&nbsp;...",
+      "formattedUrl": "https://tech.churchofjesuschrist.org/forum/viewtopic.php?t=41123",
+      "htmlFormattedUrl": "https://tech.churchofjesuschrist.org/forum/viewtopic.php?t=41123",
+      "pagemap": {
+        "listitem": {
+          "listValue": {
+            "values": [
+              {
+                "structValue": {
+                  "fields": {
+                    "position": {
+                      "stringValue": "1",
+                      "kind": "stringValue"
+                    },
+                    "name": {
+                      "stringValue": "Forum",
+                      "kind": "stringValue"
+                    },
+                    "item": {
+                      "stringValue": "Forum",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              },
+              {
+                "structValue": {
+                  "fields": {
+                    "position": {
+                      "stringValue": "2",
+                      "kind": "stringValue"
+                    },
+                    "name": {
+                      "stringValue": "Audiovisual Media and Emerging Technologies",
+                      "kind": "stringValue"
+                    },
+                    "item": {
+                      "stringValue": "Audiovisual Media and Emerging Technologies",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              },
+              {
+                "structValue": {
+                  "fields": {
+                    "item": {
+                      "stringValue": "General Media Discussions",
+                      "kind": "stringValue"
+                    },
+                    "name": {
+                      "stringValue": "General Media Discussions",
+                      "kind": "stringValue"
+                    },
+                    "position": {
+                      "stringValue": "3",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              }
+            ]
+          },
+          "kind": "listValue"
+        },
+        "metatags": {
+          "listValue": {
+            "values": [
+              {
+                "structValue": {
+                  "fields": {
+                    "viewport": {
+                      "stringValue": "width=device-width, initial-scale=1",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              }
+            ]
+          },
+          "kind": "listValue"
+        }
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Exporting a list to Google Docs - Tech Forum",
+      "htmlTitle": "Exporting a list to <b>Google</b> Docs - Tech Forum",
+      "link": "https://tech.churchofjesuschrist.org/forum/viewtopic.php?t=22952",
+      "displayLink": "tech.churchofjesuschrist.org",
+      "snippet": "Removed the Export option from the File tab of the MLS menu bar to better ensure that membership data is kept secure. Have you searched ...",
+      "htmlSnippet": "Removed the Export option from the File tab of the MLS menu bar to better ensure that membership data is kept secure. Have you searched&nbsp;...",
+      "formattedUrl": "https://tech.churchofjesuschrist.org/forum/viewtopic.php?t=22952",
+      "htmlFormattedUrl": "https://tech.churchofjesuschrist.org/forum/viewtopic.php?t=22952",
+      "pagemap": {
+        "cse_image": {
+          "listValue": {
+            "values": [
+              {
+                "structValue": {
+                  "fields": {
+                    "src": {
+                      "stringValue": "https://www.churchofjesuschrist.org/imgs/c3b596420582c9f489e7c5b94f1e19d4752264fd/full/200%2C/0/default.png",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              }
+            ]
+          },
+          "kind": "listValue"
+        },
+        "listitem": {
+          "listValue": {
+            "values": [
+              {
+                "structValue": {
+                  "fields": {
+                    "item": {
+                      "stringValue": "Forum",
+                      "kind": "stringValue"
+                    },
+                    "position": {
+                      "stringValue": "1",
+                      "kind": "stringValue"
+                    },
+                    "name": {
+                      "stringValue": "Forum",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              },
+              {
+                "structValue": {
+                  "fields": {
+                    "position": {
+                      "stringValue": "2",
+                      "kind": "stringValue"
+                    },
+                    "item": {
+                      "stringValue": "Church Technology for Members",
+                      "kind": "stringValue"
+                    },
+                    "name": {
+                      "stringValue": "Church Technology for Members",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              },
+              {
+                "structValue": {
+                  "fields": {
+                    "item": {
+                      "stringValue": "Main Church Website",
+                      "kind": "stringValue"
+                    },
+                    "name": {
+                      "stringValue": "Main Church Website",
+                      "kind": "stringValue"
+                    },
+                    "position": {
+                      "stringValue": "3",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              },
+              {
+                "structValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Leader and Clerk Resources",
+                      "kind": "stringValue"
+                    },
+                    "position": {
+                      "stringValue": "4",
+                      "kind": "stringValue"
+                    },
+                    "item": {
+                      "stringValue": "Leader and Clerk Resources",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              }
+            ]
+          },
+          "kind": "listValue"
+        },
+        "cse_thumbnail": {
+          "listValue": {
+            "values": [
+              {
+                "structValue": {
+                  "fields": {
+                    "height": {
+                      "stringValue": "316",
+                      "kind": "stringValue"
+                    },
+                    "width": {
+                      "stringValue": "160",
+                      "kind": "stringValue"
+                    },
+                    "src": {
+                      "stringValue": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN0Ef79lRZNGVd-TlCGU6Lp6qJsUIQJnZbYJ7DcNy-sLF7MsFHanF5-4o&s",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              }
+            ]
+          },
+          "kind": "listValue"
+        },
+        "metatags": {
+          "listValue": {
+            "values": [
+              {
+                "structValue": {
+                  "fields": {
+                    "viewport": {
+                      "stringValue": "width=device-width, initial-scale=1",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              }
+            ]
+          },
+          "kind": "listValue"
+        }
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "An Idea....Google Workspace for Non Profits for Ward Leadership ...",
+      "htmlTitle": "An Idea....<b>Google</b> Workspace for Non Profits for Ward Leadership ...",
+      "link": "https://tech.churchofjesuschrist.org/forum/viewtopic.php?t=41079",
+      "displayLink": "tech.churchofjesuschrist.org",
+      "snippet": "Aug 22, 2022 ... Enter Google Workspaces for Non Profits. About a year ago, I registered a domain name for our Ward, contacted Google and asked if I could enroll ...",
+      "htmlSnippet": "Aug 22, 2022 <b>...</b> Enter <b>Google</b> Workspaces for Non Profits. About a year ago, I registered a domain name for our Ward, contacted <b>Google</b> and asked if I could enroll&nbsp;...",
+      "formattedUrl": "https://tech.churchofjesuschrist.org/forum/viewtopic.php?t=41079",
+      "htmlFormattedUrl": "https://tech.churchofjesuschrist.org/forum/viewtopic.php?t=41079",
+      "pagemap": {
+        "listitem": {
+          "listValue": {
+            "values": [
+              {
+                "structValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Forum",
+                      "kind": "stringValue"
+                    },
+                    "item": {
+                      "stringValue": "Forum",
+                      "kind": "stringValue"
+                    },
+                    "position": {
+                      "stringValue": "1",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              },
+              {
+                "structValue": {
+                  "fields": {
+                    "item": {
+                      "stringValue": "Meetinghouse Technologies",
+                      "kind": "stringValue"
+                    },
+                    "position": {
+                      "stringValue": "2",
+                      "kind": "stringValue"
+                    },
+                    "name": {
+                      "stringValue": "Meetinghouse Technologies",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              },
+              {
+                "structValue": {
+                  "fields": {
+                    "item": {
+                      "stringValue": "Other Meetinghouse Technologies",
+                      "kind": "stringValue"
+                    },
+                    "name": {
+                      "stringValue": "Other Meetinghouse Technologies",
+                      "kind": "stringValue"
+                    },
+                    "position": {
+                      "stringValue": "3",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              }
+            ]
+          },
+          "kind": "listValue"
+        },
+        "cse_image": {
+          "listValue": {
+            "values": [
+              {
+                "structValue": {
+                  "fields": {
+                    "src": {
+                      "stringValue": "https://www.churchofjesuschrist.org/imgs/c3b596420582c9f489e7c5b94f1e19d4752264fd/full/200%2C/0/default.png",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              }
+            ]
+          },
+          "kind": "listValue"
+        },
+        "metatags": {
+          "listValue": {
+            "values": [
+              {
+                "structValue": {
+                  "fields": {
+                    "viewport": {
+                      "stringValue": "width=device-width, initial-scale=1",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              }
+            ]
+          },
+          "kind": "listValue"
+        },
+        "cse_thumbnail": {
+          "listValue": {
+            "values": [
+              {
+                "structValue": {
+                  "fields": {
+                    "width": {
+                      "stringValue": "160",
+                      "kind": "stringValue"
+                    },
+                    "height": {
+                      "stringValue": "316",
+                      "kind": "stringValue"
+                    },
+                    "src": {
+                      "stringValue": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN0Ef79lRZNGVd-TlCGU6Lp6qJsUIQJnZbYJ7DcNy-sLF7MsFHanF5-4o&s",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              }
+            ]
+          },
+          "kind": "listValue"
+        }
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Using Google Docs - Tech Forum",
+      "htmlTitle": "Using <b>Google</b> Docs - Tech Forum",
+      "link": "https://tech.churchofjesuschrist.org/forum/viewtopic.php?t=20235",
+      "displayLink": "tech.churchofjesuschrist.org",
+      "snippet": "LDS Tools would be able to open the docs and edit according to share privileges. Some other formats would be allowed (.PDF, etc,). The church could set its own ...",
+      "htmlSnippet": "LDS Tools would be able to open the docs and edit according to share privileges. Some other formats would be allowed (.PDF, etc,). The church could set its own&nbsp;...",
+      "formattedUrl": "https://tech.churchofjesuschrist.org/forum/viewtopic.php?t=20235",
+      "htmlFormattedUrl": "https://tech.churchofjesuschrist.org/forum/viewtopic.php?t=20235",
+      "pagemap": {
+        "listitem": {
+          "listValue": {
+            "values": [
+              {
+                "structValue": {
+                  "fields": {
+                    "position": {
+                      "stringValue": "1",
+                      "kind": "stringValue"
+                    },
+                    "name": {
+                      "stringValue": "Forum",
+                      "kind": "stringValue"
+                    },
+                    "item": {
+                      "stringValue": "Forum",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              },
+              {
+                "structValue": {
+                  "fields": {
+                    "position": {
+                      "stringValue": "2",
+                      "kind": "stringValue"
+                    },
+                    "name": {
+                      "stringValue": "Community Discussions",
+                      "kind": "stringValue"
+                    },
+                    "item": {
+                      "stringValue": "Community Discussions",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              },
+              {
+                "structValue": {
+                  "fields": {
+                    "position": {
+                      "stringValue": "3",
+                      "kind": "stringValue"
+                    },
+                    "item": {
+                      "stringValue": "General Discussions",
+                      "kind": "stringValue"
+                    },
+                    "name": {
+                      "stringValue": "General Discussions",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              }
+            ]
+          },
+          "kind": "listValue"
+        },
+        "metatags": {
+          "listValue": {
+            "values": [
+              {
+                "structValue": {
+                  "fields": {
+                    "viewport": {
+                      "stringValue": "width=device-width, initial-scale=1",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              }
+            ]
+          },
+          "kind": "listValue"
+        },
+        "cse_image": {
+          "listValue": {
+            "values": [
+              {
+                "structValue": {
+                  "fields": {
+                    "src": {
+                      "stringValue": "https://www.churchofjesuschrist.org/imgs/c3b596420582c9f489e7c5b94f1e19d4752264fd/full/200%2C/0/default.png",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              }
+            ]
+          },
+          "kind": "listValue"
+        },
+        "cse_thumbnail": {
+          "listValue": {
+            "values": [
+              {
+                "structValue": {
+                  "fields": {
+                    "width": {
+                      "stringValue": "160",
+                      "kind": "stringValue"
+                    },
+                    "src": {
+                      "stringValue": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN0Ef79lRZNGVd-TlCGU6Lp6qJsUIQJnZbYJ7DcNy-sLF7MsFHanF5-4o&s",
+                      "kind": "stringValue"
+                    },
+                    "height": {
+                      "stringValue": "316",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              }
+            ]
+          },
+          "kind": "listValue"
+        }
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Audio Scriptures Played from Google Home - Tech Forum",
+      "htmlTitle": "Audio Scriptures Played from <b>Google</b> Home - Tech Forum",
+      "link": "https://tech.churchofjesuschrist.org/forum/viewtopic.php?t=28157",
+      "displayLink": "tech.churchofjesuschrist.org",
+      "snippet": "Re: Audio Scriptures Played from Google Home ... So getting google to open the application is simple. Simply press and hold your home button until google ...",
+      "htmlSnippet": "Re: Audio Scriptures Played from <b>Google</b> Home ... So getting <b>google</b> to open the application is simple. Simply press and hold your home button until <b>google</b>&nbsp;...",
+      "formattedUrl": "https://tech.churchofjesuschrist.org/forum/viewtopic.php?t=28157",
+      "htmlFormattedUrl": "https://tech.churchofjesuschrist.org/forum/viewtopic.php?t=28157",
+      "pagemap": {
+        "cse_thumbnail": {
+          "listValue": {
+            "values": [
+              {
+                "structValue": {
+                  "fields": {
+                    "height": {
+                      "stringValue": "316",
+                      "kind": "stringValue"
+                    },
+                    "src": {
+                      "stringValue": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN1wPfgzz-iXlqNm7EFGrhvqNiUNXIkkQV0qbwTT6WZ_OqNpfGd6Mwz7aq&s",
+                      "kind": "stringValue"
+                    },
+                    "width": {
+                      "stringValue": "160",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              }
+            ]
+          },
+          "kind": "listValue"
+        },
+        "cse_image": {
+          "listValue": {
+            "values": [
+              {
+                "structValue": {
+                  "fields": {
+                    "src": {
+                      "stringValue": "https://www.churchofjesuschrist.org/imgs/0fd2691a8a019111765601085628ed5183d2c812/full/200%2C/0/default.png",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              }
+            ]
+          },
+          "kind": "listValue"
+        },
+        "metatags": {
+          "listValue": {
+            "values": [
+              {
+                "structValue": {
+                  "fields": {
+                    "viewport": {
+                      "stringValue": "width=device-width, initial-scale=1",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              }
+            ]
+          },
+          "kind": "listValue"
+        },
+        "listitem": {
+          "listValue": {
+            "values": [
+              {
+                "structValue": {
+                  "fields": {
+                    "position": {
+                      "stringValue": "1",
+                      "kind": "stringValue"
+                    },
+                    "name": {
+                      "stringValue": "Forum",
+                      "kind": "stringValue"
+                    },
+                    "item": {
+                      "stringValue": "Forum",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              },
+              {
+                "structValue": {
+                  "fields": {
+                    "position": {
+                      "stringValue": "2",
+                      "kind": "stringValue"
+                    },
+                    "name": {
+                      "stringValue": "Community Discussions",
+                      "kind": "stringValue"
+                    },
+                    "item": {
+                      "stringValue": "Community Discussions",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              },
+              {
+                "structValue": {
+                  "fields": {
+                    "position": {
+                      "stringValue": "3",
+                      "kind": "stringValue"
+                    },
+                    "item": {
+                      "stringValue": "General Discussions",
+                      "kind": "stringValue"
+                    },
+                    "name": {
+                      "stringValue": "General Discussions",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              }
+            ]
+          },
+          "kind": "listValue"
+        }
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "FamilySearch Tree - Apps on Google Play",
+      "htmlTitle": "FamilySearch Tree - Apps on <b>Google</b> Play",
+      "link": "https://go.churchofjesuschrist.org/x/6a2",
+      "displayLink": "go.churchofjesuschrist.org",
+      "snippet": "The FamilySearch Tree app makes it easy to add to, edit, or share your own family's history anywhere you can take a phone or tablet. Since the app syncs with ...",
+      "htmlSnippet": "The FamilySearch Tree app makes it easy to add to, edit, or share your own family&#39;s history anywhere you can take a phone or tablet. Since the app syncs with&nbsp;...",
+      "formattedUrl": "https://go.churchofjesuschrist.org/x/6a2",
+      "htmlFormattedUrl": "https://go.churchofjesuschrist.org/x/6a2",
+      "pagemap": {
+        "cse_image": {
+          "listValue": {
+            "values": [
+              {
+                "structValue": {
+                  "fields": {
+                    "src": {
+                      "stringValue": "https://play-lh.googleusercontent.com/D_hJ1XOlKMyOhDH4Bt985UIWfK_gH8gEX3V4VjJSk4AtSg5MwH_UjdfzwCgMCFScnCw",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              }
+            ]
+          },
+          "kind": "listValue"
+        },
+        "offer": {
+          "listValue": {
+            "values": [
+              {
+                "structValue": {
+                  "fields": {
+                    "url": {
+                      "stringValue": "https://play.google.com/store/apps/details?id=org.familysearch.mobile&rdid=org.familysearch.mobile&feature=md&offerId",
+                      "kind": "stringValue"
+                    },
+                    "price": {
+                      "stringValue": "0",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              }
+            ]
+          },
+          "kind": "listValue"
+        },
+        "cse_thumbnail": {
+          "listValue": {
+            "values": [
+              {
+                "structValue": {
+                  "fields": {
+                    "height": {
+                      "stringValue": "225",
+                      "kind": "stringValue"
+                    },
+                    "width": {
+                      "stringValue": "225",
+                      "kind": "stringValue"
+                    },
+                    "src": {
+                      "stringValue": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUQzHPkSZjP1gSrP6WNyO5EY6ITyTbFxiwLSnK380QtqLR65p35bQeWgk&s",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              }
+            ]
+          },
+          "kind": "listValue"
+        },
+        "metatags": {
+          "listValue": {
+            "values": [
+              {
+                "structValue": {
+                  "fields": {
+                    "twitter:site": {
+                      "stringValue": "@GooglePlay",
+                      "kind": "stringValue"
+                    },
+                    "twitter:description": {
+                      "stringValue": "Discover where you came from, and get to know who you are.",
+                      "kind": "stringValue"
+                    },
+                    "twitter:image": {
+                      "stringValue": "https://play-lh.googleusercontent.com/D_hJ1XOlKMyOhDH4Bt985UIWfK_gH8gEX3V4VjJSk4AtSg5MwH_UjdfzwCgMCFScnCw=w600-h300-pc0xffffff-pd",
+                      "kind": "stringValue"
+                    },
+                    "og:title": {
+                      "stringValue": "FamilySearch Tree - Apps on Google Play",
+                      "kind": "stringValue"
+                    },
+                    "og:type": {
+                      "stringValue": "website",
+                      "kind": "stringValue"
+                    },
+                    "og:image": {
+                      "stringValue": "https://play-lh.googleusercontent.com/D_hJ1XOlKMyOhDH4Bt985UIWfK_gH8gEX3V4VjJSk4AtSg5MwH_UjdfzwCgMCFScnCw",
+                      "kind": "stringValue"
+                    },
+                    "twitter:card": {
+                      "stringValue": "summary_large_image",
+                      "kind": "stringValue"
+                    },
+                    "twitter:url": {
+                      "stringValue": "https://play.google.com/store/apps/details?id=org.familysearch.mobile&hl=en_US",
+                      "kind": "stringValue"
+                    },
+                    "appstore:store_id": {
+                      "stringValue": "org.familysearch.mobile",
+                      "kind": "stringValue"
+                    },
+                    "twitter:title": {
+                      "stringValue": "FamilySearch Tree - Apps on Google Play",
+                      "kind": "stringValue"
+                    },
+                    "viewport": {
+                      "stringValue": "width=device-width, initial-scale=1",
+                      "kind": "stringValue"
+                    },
+                    "apple-mobile-web-app-capable": {
+                      "stringValue": "yes",
+                      "kind": "stringValue"
+                    },
+                    "referrer": {
+                      "stringValue": "origin",
+                      "kind": "stringValue"
+                    },
+                    "appstore:bundle_id": {
+                      "stringValue": "org.familysearch.mobile",
+                      "kind": "stringValue"
+                    },
+                    "og:url": {
+                      "stringValue": "https://play.google.com/store/apps/details?id=org.familysearch.mobile&hl=en_US",
+                      "kind": "stringValue"
+                    },
+                    "appstore:developer_url": {
+                      "stringValue": "https://www.familysearch.org",
+                      "kind": "stringValue"
+                    },
+                    "mobile-web-app-capable": {
+                      "stringValue": "yes",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              }
+            ]
+          },
+          "kind": "listValue"
+        }
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Google Groups posting disabled for missionary.org - Tech Forum",
+      "htmlTitle": "<b>Google</b> Groups posting disabled for missionary.org - Tech Forum",
+      "link": "https://tech.churchofjesuschrist.org/forum/viewtopic.php?t=36449",
+      "displayLink": "tech.churchofjesuschrist.org",
+      "snippet": "Mar 4, 2020 ... Thank you for mentioning it. You are right. In Android Contacts, from the three-bar menu you can select the Label and it pulls up everyone in ...",
+      "htmlSnippet": "Mar 4, 2020 <b>...</b> Thank you for mentioning it. You are right. In Android Contacts, from the three-bar menu you can select the Label and it pulls up everyone in&nbsp;...",
+      "formattedUrl": "https://tech.churchofjesuschrist.org/forum/viewtopic.php?t=36449",
+      "htmlFormattedUrl": "https://tech.churchofjesuschrist.org/forum/viewtopic.php?t=36449",
+      "pagemap": {
+        "metatags": {
+          "listValue": {
+            "values": [
+              {
+                "structValue": {
+                  "fields": {
+                    "viewport": {
+                      "stringValue": "width=device-width, initial-scale=1",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              }
+            ]
+          },
+          "kind": "listValue"
+        },
+        "listitem": {
+          "listValue": {
+            "values": [
+              {
+                "structValue": {
+                  "fields": {
+                    "item": {
+                      "stringValue": "Forum",
+                      "kind": "stringValue"
+                    },
+                    "name": {
+                      "stringValue": "Forum",
+                      "kind": "stringValue"
+                    },
+                    "position": {
+                      "stringValue": "1",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              },
+              {
+                "structValue": {
+                  "fields": {
+                    "item": {
+                      "stringValue": "Church Technology for Members",
+                      "kind": "stringValue"
+                    },
+                    "position": {
+                      "stringValue": "2",
+                      "kind": "stringValue"
+                    },
+                    "name": {
+                      "stringValue": "Church Technology for Members",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              },
+              {
+                "structValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Other Member Technologies",
+                      "kind": "stringValue"
+                    },
+                    "item": {
+                      "stringValue": "Other Member Technologies",
+                      "kind": "stringValue"
+                    },
+                    "position": {
+                      "stringValue": "3",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              }
+            ]
+          },
+          "kind": "listValue"
+        },
+        "cse_thumbnail": {
+          "listValue": {
+            "values": [
+              {
+                "structValue": {
+                  "fields": {
+                    "src": {
+                      "stringValue": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN1wPfgzz-iXlqNm7EFGrhvqNiUNXIkkQV0qbwTT6WZ_OqNpfGd6Mwz7aq&s",
+                      "kind": "stringValue"
+                    },
+                    "width": {
+                      "stringValue": "160",
+                      "kind": "stringValue"
+                    },
+                    "height": {
+                      "stringValue": "316",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              }
+            ]
+          },
+          "kind": "listValue"
+        },
+        "cse_image": {
+          "listValue": {
+            "values": [
+              {
+                "structValue": {
+                  "fields": {
+                    "src": {
+                      "stringValue": "https://www.churchofjesuschrist.org/imgs/0fd2691a8a019111765601085628ed5183d2c812/full/200%2C/0/default.png",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              }
+            ]
+          },
+          "kind": "listValue"
+        }
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Child account issue with Google Authenticator - Tech Forum",
+      "htmlTitle": "Child account issue with <b>Google</b> Authenticator - Tech Forum",
+      "link": "https://tech.churchofjesuschrist.org/forum/viewtopic.php?t=40217",
+      "displayLink": "tech.churchofjesuschrist.org",
+      "snippet": "Jan 31, 2022 ... If an account has it enabled, you should now see an additional button \"Disable Two-Step Verification\" on the \"Children Accounts\" page when ...",
+      "htmlSnippet": "Jan 31, 2022 <b>...</b> If an account has it enabled, you should now see an additional button &quot;Disable Two-Step Verification&quot; on the &quot;Children Accounts&quot; page when&nbsp;...",
+      "formattedUrl": "https://tech.churchofjesuschrist.org/forum/viewtopic.php?t=40217",
+      "htmlFormattedUrl": "https://tech.churchofjesuschrist.org/forum/viewtopic.php?t=40217",
+      "pagemap": {
+        "cse_thumbnail": {
+          "listValue": {
+            "values": [
+              {
+                "structValue": {
+                  "fields": {
+                    "width": {
+                      "stringValue": "160",
+                      "kind": "stringValue"
+                    },
+                    "height": {
+                      "stringValue": "316",
+                      "kind": "stringValue"
+                    },
+                    "src": {
+                      "stringValue": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN1wPfgzz-iXlqNm7EFGrhvqNiUNXIkkQV0qbwTT6WZ_OqNpfGd6Mwz7aq&s",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              }
+            ]
+          },
+          "kind": "listValue"
+        },
+        "listitem": {
+          "listValue": {
+            "values": [
+              {
+                "structValue": {
+                  "fields": {
+                    "position": {
+                      "stringValue": "1",
+                      "kind": "stringValue"
+                    },
+                    "name": {
+                      "stringValue": "Forum",
+                      "kind": "stringValue"
+                    },
+                    "item": {
+                      "stringValue": "Forum",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              },
+              {
+                "structValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Church Technology for Members",
+                      "kind": "stringValue"
+                    },
+                    "item": {
+                      "stringValue": "Church Technology for Members",
+                      "kind": "stringValue"
+                    },
+                    "position": {
+                      "stringValue": "2",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              },
+              {
+                "structValue": {
+                  "fields": {
+                    "position": {
+                      "stringValue": "3",
+                      "kind": "stringValue"
+                    },
+                    "name": {
+                      "stringValue": "Church Account",
+                      "kind": "stringValue"
+                    },
+                    "item": {
+                      "stringValue": "Church Account",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              }
+            ]
+          },
+          "kind": "listValue"
+        },
+        "cse_image": {
+          "listValue": {
+            "values": [
+              {
+                "structValue": {
+                  "fields": {
+                    "src": {
+                      "stringValue": "https://www.churchofjesuschrist.org/imgs/0fd2691a8a019111765601085628ed5183d2c812/full/200%2C/0/default.png",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              }
+            ]
+          },
+          "kind": "listValue"
+        },
+        "metatags": {
+          "listValue": {
+            "values": [
+              {
+                "structValue": {
+                  "fields": {
+                    "viewport": {
+                      "stringValue": "width=device-width, initial-scale=1",
+                      "kind": "stringValue"
+                    }
+                  }
+                },
+                "kind": "structValue"
+              }
+            ]
+          },
+          "kind": "listValue"
+        }
+      }
+    }
+  ]
+}

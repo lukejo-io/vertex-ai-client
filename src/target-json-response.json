@@ -1,0 +1,378 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - test site:churchofjesuschrist.org/study/scriptures",
+        "totalResults": "4680",
+        "searchTerms": "test site:churchofjesuschrist.org/study/scriptures",
+        "count": 10,
+        "startIndex": 1,
+        "language": "lang_en",
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "ad2072c2bf24361a1"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - test site:churchofjesuschrist.org/study/scriptures",
+        "totalResults": "4680",
+        "searchTerms": "test site:churchofjesuschrist.org/study/scriptures",
+        "count": 10,
+        "startIndex": 11,
+        "language": "lang_en",
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "ad2072c2bf24361a1"
+      }
+    ]
+  },
+  "context": {
+    "title": "Churchofjesuschrist.org"
+  },
+  "searchInformation": {
+    "searchTime": 0.183711,
+    "formattedSearchTime": "0.18",
+    "totalResults": "4680",
+    "formattedTotalResults": "4,680"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Test, Try, Prove",
+      "htmlTitle": "\u003cb\u003eTest\u003c/b\u003e, Try, Prove",
+      "link": "https://www.churchofjesuschrist.org/study/scriptures/tg/test?lang=eng",
+      "displayLink": "www.churchofjesuschrist.org",
+      "snippet": "Test, Try, Prove.",
+      "htmlSnippet": "\u003cb\u003eTest\u003c/b\u003e, Try, Prove.",
+      "formattedUrl": "https://www.churchofjesuschrist.org/study/scriptures/tg/test?lang=eng",
+      "htmlFormattedUrl": "https://www.churchofjesuschrist.org/study/scriptures/tg/\u003cb\u003etest\u003c/b\u003e?lang=eng",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:type": "website",
+            "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+            "search.doc-aid": "128505150",
+            "og:title": "Test, Try, Prove",
+            "title": "Test, Try, Prove",
+            "og:url": "https://www.churchofjesuschrist.org/study/eng/scriptures/tg/test",
+            "version": "4.3.0"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Doctrine and Covenants 129",
+      "htmlTitle": "Doctrine and Covenants 129",
+      "link": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/129?lang=eng",
+      "displayLink": "www.churchofjesuschrist.org",
+      "snippet": "Instructions given by Joseph Smith the Prophet, at Nauvoo, Illinois, February 9, 1843, making known three grand keys by which the correct nature of ...",
+      "htmlSnippet": "Instructions given by Joseph Smith the Prophet, at Nauvoo, Illinois, February 9, 1843, making known three grand keys by which the correct nature of&nbsp;...",
+      "cacheId": "ShCTH4fcXlIJ",
+      "formattedUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/129?...",
+      "htmlFormattedUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-\u003cb\u003etest\u003c/b\u003eament/dc/129?...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzihLc0d3ttKLRp8AzMaAZ8n_67B0W6U20W9QHnIscgwbpu-5Ccn-w134&s",
+            "width": "267",
+            "height": "189"
+          }
+        ],
+        "metatags": [
+          {
+            "og:type": "website",
+            "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+            "search.doc-aid": "128362704",
+            "og:title": "Doctrine and Covenants 129",
+            "title": "Doctrine and Covenants 129",
+            "og:url": "https://www.churchofjesuschrist.org/study/eng/scriptures/dc-testament/dc/129",
+            "version": "4.3.3"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/youtube.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "New Testament",
+      "htmlTitle": "New Testament",
+      "link": "https://www.churchofjesuschrist.org/study/scriptures/nt?lang=eng",
+      "displayLink": "www.churchofjesuschrist.org",
+      "snippet": "Peter explains why the gospel is preached to the dead—Saints should speak as the oracles of God—The righteous will be tried and tested in all things. 1 Peter 5.",
+      "htmlSnippet": "Peter explains why the gospel is preached to the dead—Saints should speak as the oracles of God—The righteous will be tried and \u003cb\u003etested\u003c/b\u003e in all things. 1 Peter 5.",
+      "cacheId": "0hNvQAxQtvsJ",
+      "formattedUrl": "https://www.churchofjesuschrist.org/study/scriptures/nt?lang=eng",
+      "htmlFormattedUrl": "https://www.churchofjesuschrist.org/study/scriptures/nt?lang=eng",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzihLc0d3ttKLRp8AzMaAZ8n_67B0W6U20W9QHnIscgwbpu-5Ccn-w134&s",
+            "width": "267",
+            "height": "189"
+          }
+        ],
+        "metatags": [
+          {
+            "og:type": "website",
+            "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+            "og:title": "New Testament",
+            "title": "New Testament",
+            "og:url": "https://www.churchofjesuschrist.org/study/eng/scriptures/nt/_manifest",
+            "version": "4.3.3"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/youtube.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Abraham 3",
+      "htmlTitle": "Abraham 3",
+      "link": "https://www.churchofjesuschrist.org/study/scriptures/pgp/abr/3?lang=eng",
+      "displayLink": "www.churchofjesuschrist.org",
+      "snippet": "Abraham learns about the sun, moon, and stars by means of the Urim and Thummim—The Lord reveals to him the eternal nature of spirits—He learns of pre-earth ...",
+      "htmlSnippet": "Abraham learns about the sun, moon, and stars by means of the Urim and Thummim—The Lord reveals to him the eternal nature of spirits—He learns of pre-earth&nbsp;...",
+      "cacheId": "ReR_C4igAzgJ",
+      "formattedUrl": "https://www.churchofjesuschrist.org/study/scriptures/pgp/abr/3?lang=eng",
+      "htmlFormattedUrl": "https://www.churchofjesuschrist.org/study/scriptures/pgp/abr/3?lang=eng",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzihLc0d3ttKLRp8AzMaAZ8n_67B0W6U20W9QHnIscgwbpu-5Ccn-w134&s",
+            "width": "267",
+            "height": "189"
+          }
+        ],
+        "metatags": [
+          {
+            "og:type": "website",
+            "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+            "search.doc-aid": "128449868",
+            "og:title": "Abraham 3",
+            "title": "Abraham 3",
+            "og:url": "https://www.churchofjesuschrist.org/study/eng/scriptures/pgp/abr/3",
+            "version": "4.3.3"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/youtube.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "2 Corinthians 13",
+      "htmlTitle": "2 Corinthians 13",
+      "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/2-cor/13?lang=eng",
+      "displayLink": "www.churchofjesuschrist.org",
+      "snippet": "Saints should test themselves as to righteousness—Be perfect and of one mind; live in peace.",
+      "htmlSnippet": "Saints should \u003cb\u003etest\u003c/b\u003e themselves as to righteousness—Be perfect and of one mind; live in peace.",
+      "cacheId": "AhCeAukQmBAJ",
+      "formattedUrl": "https://www.churchofjesuschrist.org/study/scriptures/nt/2-cor/13?lang...",
+      "htmlFormattedUrl": "https://www.churchofjesuschrist.org/study/scriptures/nt/2-cor/13?lang...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzihLc0d3ttKLRp8AzMaAZ8n_67B0W6U20W9QHnIscgwbpu-5Ccn-w134&s",
+            "width": "267",
+            "height": "189"
+          }
+        ],
+        "metatags": [
+          {
+            "og:type": "website",
+            "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+            "search.doc-aid": "128387680",
+            "og:title": "2 Corinthians 13",
+            "title": "2 Corinthians 13",
+            "og:url": "https://www.churchofjesuschrist.org/study/eng/scriptures/nt/2-cor/13",
+            "version": "4.3.3"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/youtube.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Alma 32",
+      "htmlTitle": "Alma 32",
+      "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/32?lang=eng",
+      "displayLink": "www.churchofjesuschrist.org",
+      "snippet": "Alma teaches the poor whose afflictions had humbled them—Faith is a hope in that which is not seen which is true—Alma testifies that angels minister to men, ...",
+      "htmlSnippet": "Alma teaches the poor whose afflictions had humbled them—Faith is a hope in that which is not seen which is true—Alma testifies that angels minister to men,&nbsp;...",
+      "cacheId": "sGqlfQIMEV0J",
+      "formattedUrl": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/32?lang...",
+      "htmlFormattedUrl": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/32?lang...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzihLc0d3ttKLRp8AzMaAZ8n_67B0W6U20W9QHnIscgwbpu-5Ccn-w134&s",
+            "width": "267",
+            "height": "189"
+          }
+        ],
+        "metatags": [
+          {
+            "og:type": "website",
+            "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+            "search.doc-aid": "128351620",
+            "og:title": "Alma 32",
+            "title": "Alma 32",
+            "og:url": "https://www.churchofjesuschrist.org/study/eng/scriptures/bofm/alma/32",
+            "version": "4.3.3"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/youtube.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Lucre",
+      "htmlTitle": "Lucre",
+      "link": "https://www.churchofjesuschrist.org/study/scriptures/tg/lucre?lang=eng",
+      "displayLink": "www.churchofjesuschrist.org",
+      "snippet": "Test, Try, Prove · Testament · Testify · Testimony · Testimony, Tables of · Thaddaeus · Thank · Thankful · Thanks · Thanksgiving · Theft · Theocracy.",
+      "htmlSnippet": "\u003cb\u003eTest\u003c/b\u003e, Try, Prove &middot; Testament &middot; Testify &middot; Testimony &middot; Testimony, Tables of &middot; Thaddaeus &middot; Thank &middot; Thankful &middot; Thanks &middot; Thanksgiving &middot; Theft &middot; Theocracy.",
+      "formattedUrl": "https://www.churchofjesuschrist.org/study/scriptures/tg/lucre?lang=eng",
+      "htmlFormattedUrl": "https://www.churchofjesuschrist.org/study/scriptures/tg/lucre?lang=eng",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:type": "website",
+            "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+            "search.doc-aid": "128482258",
+            "og:title": "Lucre",
+            "title": "Lucre",
+            "og:url": "https://www.churchofjesuschrist.org/study/eng/scriptures/tg/lucre",
+            "version": "4.3.0"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Exaltation",
+      "htmlTitle": "Exaltation",
+      "link": "https://www.churchofjesuschrist.org/study/scriptures/tg/exaltation?lang=eng",
+      "displayLink": "www.churchofjesuschrist.org",
+      "snippet": "Test, Try, Prove · Testament · Testify · Testimony · Testimony, Tables of · Thaddaeus · Thank · Thankful · Thanks · Thanksgiving · Theft · Theocracy.",
+      "htmlSnippet": "\u003cb\u003eTest\u003c/b\u003e, Try, Prove &middot; Testament &middot; Testify &middot; Testimony &middot; Testimony, Tables of &middot; Thaddaeus &middot; Thank &middot; Thankful &middot; Thanks &middot; Thanksgiving &middot; Theft &middot; Theocracy.",
+      "formattedUrl": "https://www.churchofjesuschrist.org/study/scriptures/tg/exaltation?lang...",
+      "htmlFormattedUrl": "https://www.churchofjesuschrist.org/study/scriptures/tg/exaltation?lang...",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:type": "website",
+            "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+            "search.doc-aid": "128465146",
+            "og:title": "Exaltation",
+            "title": "Exaltation",
+            "og:url": "https://www.churchofjesuschrist.org/study/eng/scriptures/tg/exaltation",
+            "version": "4.3.3"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "1 John 4",
+      "htmlTitle": "1 John 4",
+      "link": "https://www.churchofjesuschrist.org/study/scriptures/nt/1-jn/4?lang=eng",
+      "displayLink": "www.churchofjesuschrist.org",
+      "snippet": "GR test, prove by trial, discern. 1 Thes. 5:21; D&C 11:12 (12–14); 50:31 (1–3, 31–35); 129:9 (1–9). TG Spirits, Evil or Unclean. TG Apostasy of the Early ...",
+      "htmlSnippet": "GR \u003cb\u003etest\u003c/b\u003e, prove by trial, discern. 1 Thes. 5:21; D&amp;C 11:12 (12–14); 50:31 (1–3, 31–35); 129:9 (1–9). TG Spirits, Evil or Unclean. TG Apostasy of the Early&nbsp;...",
+      "cacheId": "PbEicPkIGTEJ",
+      "formattedUrl": "https://www.churchofjesuschrist.org/study/scriptures/nt/1-jn/4?lang=eng",
+      "htmlFormattedUrl": "https://www.churchofjesuschrist.org/study/scriptures/nt/1-jn/4?lang=eng",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzihLc0d3ttKLRp8AzMaAZ8n_67B0W6U20W9QHnIscgwbpu-5Ccn-w134&s",
+            "width": "267",
+            "height": "189"
+          }
+        ],
+        "metatags": [
+          {
+            "og:type": "website",
+            "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+            "search.doc-aid": "128386146",
+            "og:title": "1 John 4",
+            "title": "1 John 4",
+            "og:url": "https://www.churchofjesuschrist.org/study/eng/scriptures/nt/1-jn/4",
+            "version": "4.3.3"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/youtube.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Job 1",
+      "htmlTitle": "Job 1",
+      "link": "https://www.churchofjesuschrist.org/study/scriptures/ot/job/1?lang=eng",
+      "displayLink": "www.churchofjesuschrist.org",
+      "snippet": "The Book of. Job. Chapter 1. Job, a just and perfect man, is blessed with great riches—Satan obtains permission from the Lord to tempt and try Job—Job's ...",
+      "htmlSnippet": "The Book of. Job. Chapter 1. Job, a just and perfect man, is blessed with great riches—Satan obtains permission from the Lord to tempt and try Job—Job&#39;s&nbsp;...",
+      "cacheId": "n2FSKJWkE-oJ",
+      "formattedUrl": "https://www.churchofjesuschrist.org/study/scriptures/ot/job/1?lang=eng",
+      "htmlFormattedUrl": "https://www.churchofjesuschrist.org/study/scriptures/ot/job/1?lang=eng",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzihLc0d3ttKLRp8AzMaAZ8n_67B0W6U20W9QHnIscgwbpu-5Ccn-w134&s",
+            "width": "267",
+            "height": "189"
+          }
+        ],
+        "metatags": [
+          {
+            "og:type": "website",
+            "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+            "search.doc-aid": "128432836",
+            "og:title": "Job 1",
+            "title": "Job 1",
+            "og:url": "https://www.churchofjesuschrist.org/study/eng/scriptures/ot/job/1",
+            "version": "4.3.3"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/youtube.png"
+          }
+        ]
+      }
+    }
+  ]
+}
