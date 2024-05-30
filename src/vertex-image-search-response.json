@@ -1,0 +1,112 @@
+{
+  "results": [
+    {
+      "id": "0",
+      "document": {
+        "name": "projects/646976114225/locations/global/collections/default_collection/dataStores/ccd-vertex-data_1711661587561/branches/0/documents/0",
+        "id": "0",
+        "schemaId": "",
+        "derivedStructData": {
+          "fields": {
+            "fileFormat": {
+              "stringValue": "image/",
+              "kind": "stringValue"
+            },
+            "displayLink": {
+              "stringValue": "tech.churchofjesuschrist.org",
+              "kind": "stringValue"
+            },
+            "link": {
+              "stringValue": "https://tech.churchofjesuschrist.org/forum/download/file.php?id=5204&mode=view",
+              "kind": "stringValue"
+            },
+            "title": {
+              "stringValue": "Google Photos / missionary storage - Tech Forum",
+              "kind": "stringValue"
+            },
+            "htmlTitle": {
+              "stringValue": "<b>Google</b> Photos / missionary storage - Tech Forum",
+              "kind": "stringValue"
+            },
+            "mime": {
+              "stringValue": "image/",
+              "kind": "stringValue"
+            },
+            "image": {
+              "structValue": {
+                "fields": {
+                  "byteSize": {
+                    "numberValue": 134879,
+                    "kind": "numberValue"
+                  },
+                  "width": {
+                    "numberValue": 1881,
+                    "kind": "numberValue"
+                  },
+                  "contextLink": {
+                    "stringValue": "https://tech.churchofjesuschrist.org/forum/viewtopic.php?t=41123",
+                    "kind": "stringValue"
+                  },
+                  "thumbnailHeight": {
+                    "numberValue": 38,
+                    "kind": "numberValue"
+                  },
+                  "height": {
+                    "numberValue": 482,
+                    "kind": "numberValue"
+                  },
+                  "thumbnailWidth": {
+                    "numberValue": 150,
+                    "kind": "numberValue"
+                  },
+                  "thumbnailLink": {
+                    "stringValue": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTisuqAUjlJVkMUAYBI4lKz11qkvIvMuuhso847h-1MDOFRwT6wLCd2NEE&s",
+                    "kind": "stringValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            "snippets": {
+              "listValue": {
+                "values": [
+                  {
+                    "structValue": {
+                      "fields": {
+                        "snippet": {
+                          "stringValue": "Google Photos / missionary storage - Tech Forum",
+                          "kind": "stringValue"
+                        },
+                        "htmlSnippet": {
+                          "stringValue": "<b>Google</b> Photos / missionary storage - Tech Forum",
+                          "kind": "stringValue"
+                        }
+                      }
+                    },
+                    "kind": "structValue"
+                  }
+                ]
+              },
+              "kind": "listValue"
+            }
+          }
+        },
+        "parentDocumentId": "",
+        "content": null
+      }
+    }
+  ],
+  "facets": [],
+  "totalSize": 135000,
+  "attributionToken": "jgHwjQoLCKCJwbAGEOTorTYSJDY2MTIxYWU2LTAwMDAtMjc5NS04YTkxLWQ0ZjU0N2Y0YjM0NCIHR0VORVJJQypQwvCeFYCymiKjgJci9-yILcXL8xfej5oikPenIt7tiC2rxIot2-2ILeTtiC21t4wtjfenIq7Eii2Dspoi-uyILdSynRXn7Ygtjr6dFduPmiI",
+  "nextPageToken": "QDNzIGNmdDN1YGNk1SM5EGOtUTO3ITLwADMw0SNlFWMyEjN2QiGBYtkJrMEGAL0yDKCMIBMxIgC",
+  "correctedQuery": "",
+  "summary": {
+    "summarySkippedReasons": [],
+    "summaryText": "",
+    "safetyAttributes": null,
+    "summaryWithMetadata": null
+  },
+  "redirectUri": "",
+  "queryExpansionInfo": null
+}

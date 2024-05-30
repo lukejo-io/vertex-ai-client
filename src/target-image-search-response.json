@@ -1,0 +1,265 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "previousPage": [
+      {
+        "title": "Google Custom Search - test",
+        "totalResults": "90100",
+        "searchTerms": "test",
+        "count": 10,
+        "startIndex": 11,
+        "language": "lang_en",
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "ad2072c2bf24361a1",
+        "searchType": "image"
+      }
+    ],
+    "request": [
+      {
+        "title": "Google Custom Search - test",
+        "totalResults": "90100",
+        "searchTerms": "test",
+        "count": 10,
+        "startIndex": 21,
+        "language": "lang_en",
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "ad2072c2bf24361a1",
+        "searchType": "image"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - test",
+        "totalResults": "90100",
+        "searchTerms": "test",
+        "count": 10,
+        "startIndex": 31,
+        "language": "lang_en",
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "ad2072c2bf24361a1",
+        "searchType": "image"
+      }
+    ]
+  },
+  "context": {
+    "title": "Churchofjesuschrist.org"
+  },
+  "searchInformation": {
+    "searchTime": 0.226687,
+    "formattedSearchTime": "0.23",
+    "totalResults": "90100",
+    "formattedTotalResults": "90,100"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Top Ten Reasons To DNA Test For Family History • RootsTech ...",
+      "htmlTitle": "Top Ten Reasons To DNA \u003cb\u003eTest\u003c/b\u003e For Family History • RootsTech ...",
+      "link": "https://cms-z-assets.familysearch.org/dims4/default/a799002/2147483647/strip/false/crop/1917x1079+0+0/resize/1917x1079!/quality/90/?url=https%3A%2F%2Fcms-b-assets.familysearch.org%2F07%2F73%2F86d2afce4f64a1d6dad5e25a4957%2F2022-02-08-18-33-13.jpg",
+      "displayLink": "www.familysearch.org",
+      "snippet": "Top Ten Reasons To DNA Test For Family History • RootsTech ...",
+      "htmlSnippet": "Top Ten Reasons To DNA \u003cb\u003eTest\u003c/b\u003e For Family History • RootsTech ...",
+      "mime": "image/",
+      "fileFormat": "image/",
+      "image": {
+        "contextLink": "https://www.familysearch.org/en/rootstech/session/top-ten-reasons-to-dna-test-for-family-history",
+        "height": 1079,
+        "width": 1917,
+        "byteSize": 222885,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV3tSePjAfEeFALJh1wrfbo-rn-3hfakDw3Nm_Da30lw5cL3Fb_df9gA&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Från DNA-test till släktträd",
+      "htmlTitle": "Från DNA-\u003cb\u003etest\u003c/b\u003e till släktträd",
+      "link": "https://libcat.familysearch.org/bookcover.php?id=ils:4319031&size=medium&upc=CA47249",
+      "displayLink": "libcat.familysearch.org",
+      "snippet": "Från DNA-test till släktträd",
+      "htmlSnippet": "Från DNA-\u003cb\u003etest\u003c/b\u003e till släktträd",
+      "mime": "image/",
+      "fileFormat": "image/",
+      "image": {
+        "contextLink": "https://libcat.familysearch.org/Record/4319031",
+        "height": 200,
+        "width": 140,
+        "byteSize": 11171,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLQgduC79Dkbzfu39knzm_8gnS_zS6eH44__F3RxhLLlpulJtd5HZ1-g&s",
+        "thumbnailHeight": 104,
+        "thumbnailWidth": 73
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Top Ten Reasons To DNA Test For Family History • RootsTech ...",
+      "htmlTitle": "Top Ten Reasons To DNA \u003cb\u003eTest\u003c/b\u003e For Family History • RootsTech ...",
+      "link": "https://i.ytimg.com/vi/1B9hEeu_dic/maxresdefault.jpg",
+      "displayLink": "www.familysearch.org",
+      "snippet": "Top Ten Reasons To DNA Test For Family History • RootsTech ...",
+      "htmlSnippet": "Top Ten Reasons To DNA \u003cb\u003eTest\u003c/b\u003e For Family History • RootsTech ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.familysearch.org/en/rootstech/session/top-ten-reasons-to-dna-test-for-family-history",
+        "height": 720,
+        "width": 1280,
+        "byteSize": 99750,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyT5YrCMogDJUnXB9KnFhPmuvS6Wwj-VRx6b0nS2Sfo2wR2-6sof0yqA&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Tashis' Test",
+      "htmlTitle": "Tashis&#39; \u003cb\u003eTest\u003c/b\u003e",
+      "link": "https://www.churchofjesuschrist.org/imgs/4f038ca1ca3a11ed9811eeeeac1e2b3c6c18ee7e/full/500%2C/0/default",
+      "displayLink": "www.churchofjesuschrist.org",
+      "snippet": "Tashis' Test",
+      "htmlSnippet": "Tashis&#39; \u003cb\u003eTest\u003c/b\u003e",
+      "mime": "image/",
+      "fileFormat": "image/",
+      "image": {
+        "contextLink": "https://www.churchofjesuschrist.org/study/friend/2023/10/29-tashis-test?lang=eng",
+        "height": 435,
+        "width": 500,
+        "byteSize": 30040,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOjxS4p4PKf9AJP4rTwsvdLMaH9V73HL8WFGOATEIfQd7WQ2p1UQbHFQ&s",
+        "thumbnailHeight": 113,
+        "thumbnailWidth": 130
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "FamilyTreeDNA • Stan Virtual (V) • RootsTech • FamilySearch",
+      "htmlTitle": "FamilyTreeDNA • Stan Virtual (V) • RootsTech • FamilySearch",
+      "link": "https://cms-z-assets.familysearch.org/dims4/default/c73a022/2147483647/strip/false/crop/2560x1440+0+0/resize/512x288!/quality/90/?url=https%3A%2F%2Fchurch-k1-prod-familysearch-zion.s3.us-east-2.amazonaws.com%2Fbrightspot%2F95%2F08%2F047e4cbdeae7c007f856faeb77f7%2Fwhich-test-is-right-for-you-janine-cloud-on-demand-class.png",
+      "displayLink": "www.familysearch.org",
+      "snippet": "FamilyTreeDNA • Stan Virtual (V) • RootsTech • FamilySearch",
+      "htmlSnippet": "FamilyTreeDNA • Stan Virtual (V) • RootsTech • FamilySearch",
+      "mime": "image/",
+      "fileFormat": "image/",
+      "image": {
+        "contextLink": "https://www.familysearch.org/id/rootstech/expohall/familytreedna",
+        "height": 288,
+        "width": 512,
+        "byteSize": 92059,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWnrsedS-rlXaylx6wt5klHZ-TJmLfF5-8ABd-uC_iqyWykIwY60v7Eg&s",
+        "thumbnailHeight": 74,
+        "thumbnailWidth": 131
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Tashis' Test",
+      "htmlTitle": "Tashis&#39; \u003cb\u003eTest\u003c/b\u003e",
+      "link": "https://www.churchofjesuschrist.org/imgs/90b41a6136ef11eebc73eeeeac1e5f8ce34041e2/full/320%2C/0/default",
+      "displayLink": "www.churchofjesuschrist.org",
+      "snippet": "Tashis' Test",
+      "htmlSnippet": "Tashis&#39; \u003cb\u003eTest\u003c/b\u003e",
+      "mime": "image/",
+      "fileFormat": "image/",
+      "image": {
+        "contextLink": "https://www.churchofjesuschrist.org/study/friend/2023/10/29-tashis-test?lang=eng",
+        "height": 208,
+        "width": 320,
+        "byteSize": 17165,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCYL_UcarrvKHKUTkvUVUWbNL2-I9kHuk1Zqefi-lZn-RlyDHf3cli2Q&s",
+        "thumbnailHeight": 77,
+        "thumbnailWidth": 118
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Look Ahead",
+      "htmlTitle": "Look Ahead",
+      "link": "https://churchofjesuschrist.org/imgs/37b2f9bd11c6610aa7375d0e1491749cd1fe992e/full/1920%2C/0/default",
+      "displayLink": "www.churchofjesuschrist.org",
+      "snippet": "default",
+      "htmlSnippet": "default",
+      "mime": "image/",
+      "fileFormat": "image/",
+      "image": {
+        "contextLink": "https://www.churchofjesuschrist.org/media/image/mormonad-look-ahead-37b2f9b?lang=eng",
+        "height": 2597,
+        "width": 1920,
+        "byteSize": 451407,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX9Fo08fHN-xY0LbanJvJsAuNcD64tBU99ncqo4VHpWG2kX8oE_bksE5k&s",
+        "thumbnailHeight": 150,
+        "thumbnailWidth": 111
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "FamilyTreeDNA Is a Gold Sponsor of RootsTech 2024",
+      "htmlTitle": "FamilyTreeDNA Is a Gold Sponsor of RootsTech 2024",
+      "link": "https://cms-b-assets.familysearch.org/dims4/default/e6652a4/2147483647/strip/true/crop/1999x540+0+0/resize/800x216!/format/jpg/quality/90/?url=https%3A%2F%2Ffamilysearch-brightspot.s3.amazonaws.com%2F9d%2F0e%2F1b4197ed48de883b2180d3314d69%2Ftest-your-y-dna-with-familytreedna.png",
+      "displayLink": "www.familysearch.org",
+      "snippet": "FamilyTreeDNA Is a Gold Sponsor of RootsTech 2024",
+      "htmlSnippet": "FamilyTreeDNA Is a Gold Sponsor of RootsTech 2024",
+      "mime": "image/",
+      "fileFormat": "image/",
+      "image": {
+        "contextLink": "https://www.familysearch.org/en/blog/familytreedna-gold-sponsor-rootstech-2024",
+        "height": 216,
+        "width": 800,
+        "byteSize": 32333,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBLeYqh1OC42d6JYpfqt5l4M4N5x_FYvRaVYWYQfGZGm22aUEYSUo05Vo&s",
+        "thumbnailHeight": 39,
+        "thumbnailWidth": 143
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "What Can DNA Testing do to Help You Find Your Ancestors?",
+      "htmlTitle": "What Can DNA \u003cb\u003eTesting\u003c/b\u003e do to Help You Find Your Ancestors?",
+      "link": "https://cms-b-assets.familysearch.org/dims4/default/3123635/2147483647/strip/true/crop/1200x900+0+0/resize/667x500!/quality/90/?url=https%3A%2F%2Ffamilysearch-brightspot.s3.amazonaws.com%2F0e%2Fcf%2F2a168076e52f392c55bc8ab7e3dd%2Fshutterstock-582570371.jpg",
+      "displayLink": "www.familysearch.org",
+      "snippet": "What Can DNA Testing do to Help You Find Your Ancestors?",
+      "htmlSnippet": "What Can DNA \u003cb\u003eTesting\u003c/b\u003e do to Help You Find Your Ancestors?",
+      "mime": "image/",
+      "fileFormat": "image/",
+      "image": {
+        "contextLink": "https://www.familysearch.org/en/blog/what-can-dna-testing-do-to-help-you-find-your-ancestors",
+        "height": 500,
+        "width": 667,
+        "byteSize": 68216,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRDTdcoxoZngZEGWAOuiFZ3UGX4L8AJt3fMI0PTVAfXAHeoGKUnhVRUc8&s",
+        "thumbnailHeight": 103,
+        "thumbnailWidth": 138
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Which Test Is Right for You? • RootsTech • FamilySearch",
+      "htmlTitle": "Which \u003cb\u003eTest\u003c/b\u003e Is Right for You? • RootsTech • FamilySearch",
+      "link": "https://cms-z-assets.familysearch.org/dims4/default/4577478/2147483647/strip/false/crop/2560x1440+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fchurch-k1-prod-familysearch-zion.s3.us-east-2.amazonaws.com%2Fbrightspot%2F95%2F08%2F047e4cbdeae7c007f856faeb77f7%2Fwhich-test-is-right-for-you-janine-cloud-on-demand-class.png",
+      "displayLink": "www.familysearch.org",
+      "snippet": "Which Test Is Right for You? • RootsTech • FamilySearch",
+      "htmlSnippet": "Which \u003cb\u003eTest\u003c/b\u003e Is Right for You? • RootsTech • FamilySearch",
+      "mime": "image/",
+      "fileFormat": "image/",
+      "image": {
+        "contextLink": "https://www.familysearch.org/fj/rootstech/session/which-test-is-right-for-you",
+        "height": 1080,
+        "width": 1920,
+        "byteSize": 570610,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbT-5pXe062tRvhjrq5cgy6Vo_gYgRsBTcvC66Ah0g4jLd3Bl3epnbhFs&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    }
+  ]
+}
